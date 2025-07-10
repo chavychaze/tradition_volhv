@@ -13,16 +13,15 @@
 - **[velikden.md](svyata/velikden.md)** - Великдень
 - **[kupala.md](svyata/kupala.md)** - Івана Купала (7 липня)
 - **[pokrova.md](svyata/pokrova.md)** - Покрова (14 жовтня)
-- **[stritenniya.md](svyata/stritenniya.md)** - Стрітення (15 лютого)
-- **[zeleni_svyata.md](svyata/zeleni_svyata.md)** - Зелені свята (Трійця)
-- **[spas.md](svyata/spas.md)** - Спас (14, 19, 29 серпня)
 - **[vodohreshche.md](svyata/vodohreshche.md)** - Водохреще (19 січня)
+- **[../svyata_obryady.md](../svyata_obryady.md)** - Загальна інформація про свята
 
 ### 🧘 Підготовка до ритуалів
 - **[fizychna_pidhotovka.md](pidhotovka/fizychna_pidhotovka.md)** - Фізична підготовка
-- **[duhovna_pidhotovka.md](pidhotovka/duhovna_pidhotovka.md)** - Духовна підготовка
+- **[duhovna_pidhotovka.md](pidhotovka/duhovna_pidhotovka.md)** - Духовна підготовка + коли звертатися до богів
 - **[enerhetychna_pidhotovka.md](pidhotovka/enerhetychna_pidhotovka.md)** - Енергетична підготовка
 - **[prostorova_pidhotovka.md](pidhotovka/prostorova_pidhotovka.md)** - Підготовка простору
+- **[kalendar_bogiv.md](pidhotovka/kalendar_bogiv.md)** - Календар богів
 
 ### 🕯️ Ритуальні предмети
 - **[svichky.md](predmety/svichky.md)** - Свічки та їх використання
@@ -32,11 +31,18 @@
 - **[voda.md](predmety/voda.md)** - Свячена вода та її види
 - **[kameni.md](predmety/kameni.md)** - Камені та кристали
 - **[metaly.md](predmety/metaly.md)** - Метали та їх властивості
+- **[../amulety_oberehy.md](../amulety_oberehy.md)** - Загальна інформація про амулети
+- **[../symboly_amulety.md](../symboly_amulety.md)** - Символи для амулетів
 
 ### 🔮 Ворожіння
 - **[mety_vorozhinnya.md](vorozhinnya/mety_vorozhinnya.md)** - Для чого ворожити
-- **[vody_vorozhinnya.md](vorozhinnya/vody_vorozhinnya.md)** - Способи ворожіння
-- **[chas_vorozhinnya.md](vorozhinnya/chas_vorozhinnya.md)** - Час для ворожіння
+- **[runy_povnyy_hid.md](vorozhinnya/runy_povnyy_hid.md)** - Руни: повний гід від виготовлення до ворожіння
+- **[karty_taro.md](vorozhinnya/karty_taro.md)** - Ворожіння на картах Таро
+- **[kostky_vorozhinnya.md](vorozhinnya/kostky_vorozhinnya.md)** - Ворожіння на кістках
+- **[svichky_vorozhinnya.md](vorozhinnya/svichky_vorozhinnya.md)** - Ворожіння на свічках
+- **[krystalni_kuly.md](vorozhinnya/krystalni_kuly.md)** - Ворожіння на кристальних кулях
+- **[pendulum_vorozhinnya.md](vorozhinnya/pendulum_vorozhinnya.md)** - Ворожіння на маятнику
+- **[kava_vorozhinnya.md](vorozhinnya/kava_vorozhinnya.md)** - Ворожіння на кавовій гущі
 
 ---
 
